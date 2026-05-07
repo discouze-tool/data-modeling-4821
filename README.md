@@ -13,8 +13,8 @@ Modern businesses depend on scalable and innovative technology solutions to impr
 This repository highlights essential development services, software engineering practices, and scalable technology solutions used by startups, enterprises, and growing businesses worldwide.
 
 ## Core Tech Development Services
-
-- [custom-software-development](https://perfectfirms.com/skills/custom-software-development/companies)
+- [database-programming](https://perfectfirms.com/skills/database-programming/companies) - - [data-modeling](https://perfectfirms.com/top-trusted-companies/data-modeling) - - [normalization](https://perfectfirms.com/top-rated-companies/normalization) - - [denormalization](https://perfectfirms.com/hire-top-rated-companies/denormalization) - - [oltp](https://perfectfirms.com/top-verified-companies/oltp) - - [olap](https://perfectfirms.com/hire-top-rated-companies/olap) - - [schema-design](https://perfectfirms.com/hire-top-verified-companies/schema-design)
+- - [custom-software-development](https://perfectfirms.com/skills/custom-software-development/companies)
 - [web-development](https://perfectfirms.com/skills/web-development/companies)
 - [mobile-app-development](https://perfectfirms.com/skills/mobile-app-development/companies)
 - [cloud-application-development](https://perfectfirms.com/skills/cloud-application-development/companies)
